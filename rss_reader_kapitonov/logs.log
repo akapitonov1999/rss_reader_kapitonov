@@ -1,0 +1,8 @@
+2019-12-23 23:18:58,556 - root - INFO - Logs go here!
+2019-12-23 23:18:58,556 - root - ERROR - Something went wrong with logs :(
+2019-12-23 23:20:38,406 - root - INFO - Logs go here!
+2019-12-23 23:20:38,406 - root - ERROR - Something went wrong with logs :(
+2019-12-23 23:20:38,410 - root - INFO - Start
+2019-12-23 23:20:38,411 - root - INFO - Start printer function
+2019-12-23 23:20:38,411 - root - INFO - Start news_collector function
+2019-12-23 23:20:39,901 - root - INFO - Start cache
