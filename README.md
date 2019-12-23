@@ -5,7 +5,7 @@ It is command line utility that recieves RSS URL and print news in human-readabl
 
 
 # Installation
-$https://github.com/akapitonov1999/rss_reader_kapitonov.git<br/>
+$git clone https://github.com/akapitonov1999/rss_reader_kapitonov.git<br/>
 $cd rss_reader_kapitonov<br/>
 $python setup.py bdist bdist_wheel<br/>
 $cd dist<br/>
